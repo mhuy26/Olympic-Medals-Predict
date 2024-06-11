@@ -2,9 +2,9 @@
 This repository contains a simple algorithm to predict Olympic medals using linear regression. The algorithm uses historical data to train a model and predict the number of medals a team might win in future events. Below are the steps and processes involved in the algorithm.
 
 <h1>There are a few steps: </h1>
-1. Find out the correlation between numeric variables and medals to identify potential predictors
-2. Clean any missing values
-3. Split data to train and test
+<h3>1. Find out the correlation between numeric variables and medals to identify potential predictors</h3>
+<h3>2. Clean any missing values</h3>
+<h3>3. Split data to train and test</h3>
 
 <h1>Technologies Used
 <h3>Python:</h3> 
